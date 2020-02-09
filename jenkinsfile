@@ -1,0 +1,4 @@
+node('maven-label'){
+"This is a jenkins file"
+
+}
